@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/gybins/qa-auto-engineer-javascript-project-44/issues"
   },
-  "homepage": "https://github.com/gybins/qa-auto-engineer-javascript-project-44#readme"
+  "homepage": "https://github.com/gybins/qa-auto-engineer-javascript-project-44#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^10.4.1"
+  }
 }
