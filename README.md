@@ -6,6 +6,10 @@
 ## Аксинема brain-even
 [asciinema](https://asciinema.org/a/MzFM4GeEosupco4B)
 
+## Аксинема brain-calc
+[asciinema](https://asciinema.org/a/2TS940lqJy5cpnRQ)
+
+
 ### Install dependencies
 
 ```bash

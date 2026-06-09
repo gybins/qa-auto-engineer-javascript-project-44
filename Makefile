@@ -12,3 +12,9 @@ lint:
 
 lint-fix:
 	npx eslint . --fix
+
+brain-calc:
+	brain-calc
+	
+brain-even:
+	brain-even
