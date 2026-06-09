@@ -9,6 +9,8 @@
 ## Аксинема brain-calc
 [asciinema](https://asciinema.org/a/2TS940lqJy5cpnRQ)
 
+## Аксинема brain-gcd
+[asciinema]https://asciinema.org/a/KEksKSj7uhPbnYZD
 
 ### Install dependencies
 

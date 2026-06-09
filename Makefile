@@ -18,3 +18,6 @@ brain-calc:
 	
 brain-even:
 	brain-even
+
+brain-gcd:
+	brain-gcd
