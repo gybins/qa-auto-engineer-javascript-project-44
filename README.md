@@ -15,6 +15,9 @@
 ## Аксинема brain-progression
 [asciinema]https://asciinema.org/a/T4kehbcVRDCNvMrt
 
+## Аксинема brain-prime
+[asciinema]https://asciinema.org/a/fN93JeFrRX6uGUuH
+
 ### Install dependencies
 
 ```bash
