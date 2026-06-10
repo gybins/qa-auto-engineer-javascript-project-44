@@ -6,27 +6,26 @@ const gameDescription =
 
 const getPrime = (number) => {
   if (number <= 1) {
-    return 'no';
+    return "no";
   }
   for (let i = 2; i < number; i += 1) {
     if (number % i === 0) {
-      return 'no';
+      return "no";
     }
   }
-  return 'yes';
+  return "yes";
 };
 
 const playPrime = () => {
+  const randomNumber = _.random(1, 20);
 
-    const randomNumber = _.random(1, 20)
+  const result = getPrime(randomNumber);
 
-    const result = getPrime(randomNumber)
-
- return {
+  return {
     question: randomNumber,
-    correctAnswer: result
- }   
-}
+    correctAnswer: result,
+  };
+};
 export const playPrimeGame = () => {
-    playGame(gameDescription, playPrime)    
-}
+  playGame(gameDescription, playPrime);
+};
