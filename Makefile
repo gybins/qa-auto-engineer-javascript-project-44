@@ -21,3 +21,6 @@ brain-even:
 
 brain-gcd:
 	brain-gcd
+
+brain-progression:
+	brain-progression

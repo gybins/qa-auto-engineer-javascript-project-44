@@ -1,6 +1,6 @@
 import { playGame } from "../index.js";
 
-const gameDiscription =
+const gameDescription =
   'Answer "yes" if the number is even, otherwise answer "no".';
 
 const playEven = () => {
@@ -14,5 +14,5 @@ const playEven = () => {
   };
 };
 export const playEvenGame = () => {
-  playGame(gameDiscription, playEven);
+  playGame(gameDescription, playEven);
 };

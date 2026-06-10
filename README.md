@@ -12,6 +12,9 @@
 ## Аксинема brain-gcd
 [asciinema]https://asciinema.org/a/KEksKSj7uhPbnYZD
 
+## Аксинема brain-progression
+[asciinema]https://asciinema.org/a/T4kehbcVRDCNvMrt
+
 ### Install dependencies
 
 ```bash

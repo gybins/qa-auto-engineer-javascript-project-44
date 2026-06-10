@@ -1,10 +1,10 @@
 import { addName } from "./cli.js";
 import readlineSync from "readline-sync";
 
-export const playGame = (gameDiscription, searchRandom) => {
+export const playGame = (gameDescription, searchRandom) => {
   const name = addName();
 
-  console.log(gameDiscription);
+  console.log(gameDescription);
 
   let countCorrectAnswer = 0;
 
