@@ -26,7 +26,7 @@ const playCalc = () => {
       correctAnswer = 0;
   }
 
-  const question = randomNumber1 + operation + randomNumber2;
+  const question = `${randomNumber1} ${operation} ${randomNumber2}`;
 
 
 
